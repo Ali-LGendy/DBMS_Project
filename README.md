@@ -33,12 +33,12 @@ DBMS-Bash-Project is a lightweight, command-line database management system (DBM
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ali-LGendy/DBMS_Bash_Project
+   git clone https://github.com/Ali-LGendy/DBMS_Project
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd DBMS_Bash_Project
+   cd DBMS_Project
    ```
 
 3. Make the script executable:
